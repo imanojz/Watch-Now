@@ -1,6 +1,6 @@
 # 🎬 Watch Now - Movie Streaming UI Website
 
-**Watch Now** ek modern movie streaming UI website hai jo Netflix-style design par based hai. Is project mein aapko movies grid, categories, live shows aur responsive UI milta hai.
+**Watch Now** is a modern movie streaming UI website inspired by a Netflix-style design. This project includes a movies grid, categories, live shows, and a fully responsive user interface.
 
 ---
 
@@ -40,15 +40,15 @@ WatchNow/
 
 ## ⚙️ How to Run
 
-1. Project download ya clone kare:
+1. Download or clone the project:
 
 ```
 git clone https://github.com/your-username/watch-now.git
 ```
 
-2. Folder open kare
+2. Open the project folder
 
-3. `index.html` ko browser mein open kare
+3. Open `index.html` in your browser
 
 ---
 
@@ -59,31 +59,41 @@ git clone https://github.com/your-username/watch-now.git
 * Logo
 * Navigation links (Home, Category, Live)
 * Search bar
-* Sign in button
+* Sign-in button
+
+---
 
 ### 🔹 Banner Section
 
 * Featured movie highlight
-* Movie info (genre, year, duration, quality)
+* Movie details (genre, year, duration, quality)
+
+---
 
 ### 🔹 Movies Section
 
-* Filters (Genre, Year, Featured/Popular/Newest)
+* Filters (Genre, Year, Featured / Popular / Newest)
 * Movie cards with:
 
   * Rating ⭐
   * Bookmark 🔖
   * Play button ▶️
 
+---
+
 ### 🔹 Category Section
 
 * Different movie genres
 * Total count display
 
+---
+
 ### 🔹 Live TV Section
 
-* Live shows with viewers count
+* Live shows with viewer count
 * Play overlay
+
+---
 
 ### 🔹 Footer
 
@@ -115,15 +125,15 @@ navbarSearchBtn.addEventListener('click', searchBarIsActive);
 * Tablet 📱
 * Mobile 📲
 
-Media queries ka use karke fully responsive banaya gaya hai.
+Built using media queries to ensure full responsiveness across all devices.
 
 ---
 
 ## ⚠️ Notes
 
-* Ye project sirf UI template hai (backend functionality nahi hai)
-* Images external sources se load ho rahi hain
-* Real streaming functionality add karne ke liye backend required hoga
+* This project is only a UI template (no backend functionality included)
+* Images are loaded from external sources
+* Backend integration is required for real streaming functionality
 
 ---
 
@@ -146,6 +156,6 @@ Frontend Developer 🚀
 
 ## ⭐ Support
 
-Agar aapko project pasand aaye to ⭐ star dena mat bhoolna!
+If you like this project, don’t forget to give it a ⭐ on GitHub!
 
 ---
